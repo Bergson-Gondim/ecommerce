@@ -18,7 +18,7 @@ class Cliente {
         this.endereco = endereco;
         this.telefone = telefone;
     }
-f
+
 
     //Métodos
     public cadastrar() {
